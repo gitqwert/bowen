@@ -1,0 +1,10 @@
+name: xiaohong
+age: 22
+wife:
+    name: ch
+    age: 30
+child:
+  - name: uu
+    age: 12
+  - name: kk
+    age: 15
